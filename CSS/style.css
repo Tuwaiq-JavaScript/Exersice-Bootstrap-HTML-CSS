@@ -1,0 +1,27 @@
+body{
+    background-color:lightgrey;
+}
+
+h1{
+    font-size:4rem;
+    margin-left: 2rem;
+    margin-top: 4rem;
+}
+ p{
+    margin-left: 2rem;
+ }
+#form{
+    margin-right: 2rem;
+}
+ #container{
+margin-left: 2rem;
+ }
+
+#sec2{
+    margin-top: 5rem;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
