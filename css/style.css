@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(173, 173, 173);
+}
+.navbar-brand{
+    color: aliceblue;
+}
+
+
+h1{
+ padding-top: 3%;
+    padding-left: 10%;
+}
+p{
+    padding-left: 10%;
+
+    padding-bottom: 11%;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    
+}
