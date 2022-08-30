@@ -1,3 +1,5 @@
 # Exersice-Bootstrap-HTML-CSS
 
-<img width="897" alt="HTML   CSS   bootstrap" src="https://user-images.githubusercontent.com/92260175/187413298-c57896c0-62c8-4302-bb9e-08a8437b7c8b.png">
+# Screenshot
+
+![Screenshot (1)](https://user-images.githubusercontent.com/109069188/187436104-7ecfad14-74db-48de-9369-a08a958f775b.png)
